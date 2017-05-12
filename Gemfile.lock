@@ -53,6 +53,7 @@ GEM
     listen (3.0.8)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    local-subdomain (1.0.2)
     loofah (2.0.3)
       nokogiri (>= 1.5.9)
     mail (2.6.5)
@@ -125,6 +126,7 @@ DEPENDENCIES
   byebug
   jbuilder (~> 2.5)
   listen (~> 3.0.5)
+  local-subdomain
   puma (~> 3.0)
   rails (~> 5.0.2)
   spring
